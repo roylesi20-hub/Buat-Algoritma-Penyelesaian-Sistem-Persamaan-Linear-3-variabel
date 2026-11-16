@@ -1,0 +1,13 @@
+PROMPT AI TUGAS KOMPUTASI NUMERIK
+
+1. Membantu membuat algoritma penyelesaian Sistem Persamaan Linear Tiga Variabel (SPLTV) menggunakan metode Eliminasi Gauss.
+
+2. Membantu membuat kode Python untuk menyelesaikan SPLTV menggunakan Google Colab.
+
+3. Membantu memberikan penjelasan setiap bagian kode Python SPLTV.
+
+4. Membantu membuat algoritma penyelesaian persamaan nonlinier menggunakan metode Bisection.
+
+5. Membantu membuat kode Python metode Bisection dan menjelaskan setiap bagian kode.
+
+6. Membantu menyusun penjelasan tugas Komputasi Numerik untuk dokumentasi GitHub.
